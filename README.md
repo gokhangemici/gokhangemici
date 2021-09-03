@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gokhan</h1>
-<h3 align="left">A passionate data scientist from Turkey</h3>
+<h3 align="left">A passionate data scientist from İstanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Data science, machine learning and deep learning technologies**
 
-- 🌱 I’m currently learning **Tensorflow, keras, opencv and pytorch frameworks**
+- 🌱 I’m currently learning **Tensorflow, keras, opencv and pytorch libraries and I try to develop projects using these libraries**
 
-- 💬 Ask me about **Python data science libraries such as numpy, pandas, scikit-learn, seaborn and matplotlib**
+- 💬 Ask me about **R programming language and Python data science libraries such as numpy, pandas, scikit-learn, seaborn and matplotlib**
 
 - 📫 How to reach me **gokhangemici93@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and visionary**
+- ⚡ Fun fact **I think I am funny and pretty visionary**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokhangemici&show_icons=true&locale=en&layout=compact" alt="gokhangemici" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokhangemici&show_icons=true&locale=en" alt="gokhangemici" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhangemici&show_icons=true&locale=en" alt="gokhangemici" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangemici&" alt="gokhangemici" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangemici&" alt="gokhangemici" /></p>
 
