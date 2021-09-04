@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gökhan Gemici</h1>
-<h3 align="left">A passionate data scientist from İstanbul</h3>
+<h3 align="left">A passionate and highly motivated data scientist from İstanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
 
