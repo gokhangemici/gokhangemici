@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gokhangemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokhangemici" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12308482/gkhn93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12308482/gkhn93" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/gokhangemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gokhangemici" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/gokhan_gemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gokhan_gemici" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gokhangemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokhangemici" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12308482/gkhn93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12308482/gkhn93" height="30" width="40" /></a>
+<a href="https://kaggle.com/gokhangemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gokhangemici" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gokhan_gemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gokhan_gemici" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
