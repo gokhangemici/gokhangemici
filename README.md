@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangemici" alt="gokhangemici" /></a> </p>
 
-- 🔭 I’m currently working on **Data science, machine learning and deep learning technologies**
+- 🔭 I’m currently working on **Data science, Machine learning and Deep learning technologies**
 
-- 🌱 I’m currently learning **Tensorflow, keras, opencv and pytorch libraries and I try to develop projects using these libraries**
+- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I try to develop projects using these libraries**
 
 - 💬 Ask me about **R programming language and Python data science libraries such as numpy, pandas, scikit-learn, seaborn and matplotlib**
 
