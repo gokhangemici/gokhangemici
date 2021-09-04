@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Gokhan</h1>
+<h1 align="left">Hi 👋, I'm Gökhan Gemici</h1>
 <h3 align="left">A passionate data scientist from İstanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I try to develop projects using these libraries**
 
-- 💬 Ask me about **R programming language and Python data science libraries such as numpy, pandas, scikit-learn, seaborn and matplotlib**
+- 💬 Ask me about **SQL Server, Excel, R programming language and Python data science libraries such as numpy, pandas, scikit-learn, seaborn and matplotlib**
+- The projects that I developed using .NET Core and C# Programming language: SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument
+- On the other hand, You can look up and inspect my pinned repositories for detailed information.
 
 - 📫 How to reach me **gokhangemici93@gmail.com**
 
