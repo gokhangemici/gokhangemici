@@ -34,5 +34,5 @@
 <hr>
 <h3> İmportant Note </h3>
 <p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br>
-On the other hand, To see my strongest technical skills and main interest, You can look up and inspect my pinned repositories for a detailed information. </p>
+On the other hand, To see my strongest technical skills and my main interest, You can look up and inspect my pinned repositories for a detailed information. </p>
 
