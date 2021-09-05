@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangemici&theme=onedark" alt="gokhangemici" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangemici&theme=dracula" alt="gokhangemici" /></a> </p>
 
 - 🔭 I’m currently working on **Data science, Machine learning, Deep learning and Big Data technologies**
 
