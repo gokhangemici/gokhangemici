@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangemici&theme=onedark" alt="gokhangemici" /></a> </p>
 
-- 🔭 I’m currently working on **Data science, Machine learning and Deep learning technologies**
+- 🔭 I’m currently working on **Data science, Machine learning, Deep learning and Big Data technologies**
 
 - 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I try to develop projects using these libraries**
 
@@ -33,6 +33,6 @@
 <p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangemici&" alt="gokhangemici" width = "400", height = "200"/></p>
 <hr>
 <h3> İmportant Note </h3>
-<p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br>
-On the other hand, To see my strongest technical skills and my main interest, You can look up and inspect my pinned repositories for a detailed information. </p>
+<p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br></p>
+<p> On the other hand, To see my strongest technical skills and my main interest, You can look up and inspect my pinned repositories for a detailed information. </p>
 
