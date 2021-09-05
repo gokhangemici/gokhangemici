@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **gokhangemici93@gmail.com**
 
+- 📄 Know about my experiences You can find my resume from [here]()
+
 - ⚡ Fun fact **I am literally crazy science-fiction books and anime series**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,6 +25,8 @@
 <a href="https://stackoverflow.com/users/12308482/gkhn93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12308482/gkhn93" height="30" width="40" /></a>
 <a href="https://kaggle.com/gokhangemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gokhangemici" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gokhan_gemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/gokhan_gemici" height="30" width="40" /></a>
+</p>
+<a href="https://profile.codersrank.io/user/gokhangemici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codersrank.svg" alt="https://www.hackerrank.com/gokhan_gemici" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +38,7 @@
 
 <p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangemici&" alt="gokhangemici" width = "400", height = "200"/></p>
 <hr>
+
 <h3> İmportant Note </h3>
 <p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br></p>
 <p> On the other hand, To see my strongest technical skills and my main interest, You can look up and inspect my pinned repositories for a detailed information. </p>
