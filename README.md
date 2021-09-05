@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gokhangemici93@gmail.com**
 
-- 📄 Know about my experiences You can find my resume from [here]()
+- 📄 Know about my experiences You can find my resume from [here](https://github.com/gokhangemici/gokhangemici/blob/655bf8fcf229e0433dd3bef926d799638e3a0e39/My_Resume_Modern%20(1).pdf)
 
 - ⚡ Fun fact **I am literally crazy science-fiction books and anime series**
 
