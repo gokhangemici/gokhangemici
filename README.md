@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Gökhan Gemici</h1>
-<h3 align="left">A passionate and highly motivated data scientist from İstanbul</h3>
+<h3 align="left">A passionate data scientist from İstanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Data science, Machine learning, Deep learning and Big Data technologies**
 
-- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I try to develop projects using these libraries**
+- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I am trying to develop projects using these libraries nowadays**
 
 - 👨‍💻 All of my projects are available at https://github.com/gokhangemici?tab=repositories
 
-- 💬 Ask me about **Microsoft SQL Server, Excel, R programming language and Python data science libraries such as numpy, pandas, scikit-learn, seaborn and matplotlib**
+- 💬 Ask me about **Microsoft SQL Server, Excel, C#, Java, R programming language and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
+
+- <strong><em>I am actively developing my overall English skills by taking online private lessons on Cambly and Speechify platforms to be more successful in work life.</em></strong>
 
 - 📫 How to reach me **gokhangemici93@gmail.com**
 
-- 📄 Know about my experiences You can find my resume from [here](https://github.com/gokhangemici/gokhangemici/blob/655bf8fcf229e0433dd3bef926d799638e3a0e39/My_Resume_Modern%20(1).pdf)
-
-- ⚡ Fun fact **I am literally crazy science-fiction books and anime series**
+- ⚡ Fun fact **I am literally crazy science-fiction movies, books and anime series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +40,5 @@
 
 <h3> İmportant Note </h3>
 <p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br></p>
-<p> On the other hand, To see my strongest technical skills and my main interest, You can look up and inspect my pinned repositories for a detailed information. </p>
+<p> <strong>On the other hand, to see my strongest technical skills and mainly my interest realm, You can explore and inspect my pinned repositories for you to get insight.</strong> </p>
 
