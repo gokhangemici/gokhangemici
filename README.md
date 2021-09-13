@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Gökhan Gemici</h1>
-<h3 align="left">A passionate data scientist from İstanbul</h3>
+<h1 align="left">Hi 👋 folks, I'm Gökhan Gemici</h1>
+<h3 align="left">A passionate Data Scientist from Turkey, istanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
 
@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Data science, Machine learning, Deep learning and Big Data technologies**
 
-- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I am trying to develop projects using these libraries nowadays**
+- 🌱 I’m currently learning **R, Python, Tensorflow, Keras, OpenCV, Tableau, Power BI and Pytorch libraries and I am trying to develop projects using these libraries and languages nowadays**
 
 - 👨‍💻 All of my projects are available at https://github.com/gokhangemici?tab=repositories
 
-- 💬 Ask me about **Microsoft SQL Server, Excel, C#, Java, R programming language and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
+- 💬 Ask me about **Microsoft SQL Server, Excel, C#, Java, R, Python and its data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
 
-- <strong><em>I am actively developing my overall English skills by taking online private lessons on Cambly and Speechify platforms to be more successful in work life.</em></strong>
+- <strong><em>I am actively developing my overall English skills by taking online private lessons on both of Cambly and Speechify language education platforms to be more successful in work life.</em></strong>
 
 - 📫 How to reach me **gokhangemici93@gmail.com**
 
-- ⚡ Fun fact **I am literally crazy science-fiction movies, books and anime series.**
+- ⚡ Fun fact **I am literally crazy AI, science-fiction movies and books. I love watching anime series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,16 @@
 <p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangemici&" alt="gokhangemici" width = "400", height = "200"/></p>
 <hr>
 
-<h3> İmportant Note </h3>
+## Have Fun 😄
+### "A SQL query walks into a bar and sees two TABLEs. He walks up to them and says ‘Can I JOIN you? Then a waitress walks up and says ‘Nice VIEW"
+
+### Q: Why do you never ask SQL people to help you move your furniture?
+### A: They sometimes DROPs the table
+<hr>
+### Q: What do you think about the database movie?
+### A: I can't wait for the SQL!
+
+<h3> Important Note </h3>
 <p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br></p>
-<p> <strong>On the other hand, to see my strongest technical skills and mainly my interest realm, You can explore and inspect my pinned repositories for you to get insight.</strong> </p>
+<p> <strong>On the other hand, to see my strongest technical skills and mainly my interest realm, You can take a look my pinned repositories.</strong> </p>
 
