@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I am trying to develop projects using these libraries nowadays**
 
-- 👨‍💻 All of my projects are available at https://github.com/gokhangemici?tab=repositories
+- 👨‍💻 All of my projects are available at: https://github.com/gokhangemici?tab=repositories
 
 - 💬 Ask me about **Microsoft SQL Server, Excel, C#, Java, R programming language and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
 
 - <strong><em>I am actively developing my overall English skills by taking online private lessons on Cambly and Speechify platforms to be more successful in work life.</em></strong>
 
-- 📫 How to reach me **gokhangemici93@gmail.com**
+- 📫 How to reach me: **gokhangemici93@gmail.com**
 
 - ⚡ Fun fact **I am literally crazy science-fiction movies, books and anime series.**
 
@@ -38,7 +38,4 @@
 <p><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhangemici&" alt="gokhangemici" width = "400", height = "200"/></p>
 <hr>
 
-<h3> İmportant Note </h3>
-<p> The projects that I developed using .NET Core and C# Programming language: <strong>SnakeGame, PersonalTakip, KimMilyonerOlmakİster, MusicalInstrument</strong><br></p>
-<p> <strong>On the other hand, to see my strongest technical skills and mainly my interest realm, You can explore and inspect my pinned repositories for you to get insight.</strong> </p>
 
