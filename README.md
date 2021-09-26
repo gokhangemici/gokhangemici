@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at: https://github.com/gokhangemici?tab=repositories
 
-- 💬 Ask me about **Microsoft SQL Server, Excel, C#, Java, R programming language and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
+- 💬 Ask me about **Microsoft SQL Server, Microsoft Excel, Java SE and Java EE, C#, R programming languages and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
 
-- <strong><em>I am actively developing my overall English skills by taking online private lessons on Cambly and Speechify platforms to be more successful in work life.</em></strong>
+- <strong><em>I am actively developing my overall English skills by taking online face to face lessons on Cambly and Speechify platforms to be more successful in work life.</em></strong>
 
 - 📫 How to reach me: **gokhangemici93@gmail.com**
 
-- ⚡ Fun fact **I am literally crazy science-fiction movies, books and anime series.**
+- ⚡ Fun fact **I am literally crazy science-fiction movies, books and I can't stand watching anime series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
