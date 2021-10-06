@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangemici&theme=dracula" alt="gokhangemici" /></a> </p>
 
-- 🔭 I’m currently working on **Data science, Machine learning, Deep learning and Big Data technologies**
+- 🔭 I’m currently working on **Data science, Machine learning, Deep learning, Natural Language Processing and Big Data technologies**
 
-- 🌱 I’m currently learning **Tensorflow, Keras, OpenCV and Pytorch libraries and I am trying to develop projects using these libraries nowadays**
+- 🌱 I’m currently learning **Hadoop, Map Reduce, Apache Hive, Pig, Impala, Tensorflow, Keras, OpenCV and Pytorch libraries and I am trying to develop projects using these libraries nowadays**
 
 - 👨‍💻 All of my projects are available at: https://github.com/gokhangemici?tab=repositories
 
