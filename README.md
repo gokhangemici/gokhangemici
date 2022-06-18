@@ -1,19 +1,19 @@
 <h1 align="left">Hi 👋, I'm Gökhan Gemici</h1>
-<h3 align="left">A passionate data scientist from İstanbul</h3>
+<h3 align="left">A junior software developer from İstanbul</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhangemici&label=Profile%20views&color=0e75b6&style=flat" alt="gokhangemici" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokhangemici&theme=dracula" alt="gokhangemici" /></a> </p>
 
-- 🔭 I’m currently working on **Data science, Machine learning, Deep learning, Natural Language Processing and Big Data technologies**
+- 🔭 I’m currently working on **C#, ASP.NET MVC, Entity Framework, Microsoft SQL Server**
 
 - 🌱 I’m currently learning **Hadoop, Map Reduce, Apache Hive, Pig, Impala, Tensorflow, Keras, OpenCV and Pytorch libraries and I am trying to develop projects using these libraries nowadays**
 
 - 👨‍💻 All of my projects are available at: https://github.com/gokhangemici?tab=repositories
 
-- 💬 Ask me about **Microsoft SQL Server, Microsoft Excel, Java SE and Java EE, C#, R programming languages and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
+- 💬 Ask me about **Microsoft SQL Server, Java, C#, ASP.NET MVC, Angular, TypeScript, R programming languages and Python data science libraries such as numpy, pandas, sklearn, seaborn and matplotlib**
 
-- <strong><em>I am actively developing my overall English skills by taking online face to face lessons on Cambly and Speechify platforms to be more successful in work life.</em></strong>
+- <strong><em>I am actively developing my general English skills by taking online private lessons on Cambly and Speechify platforms to be more successful in my career.</em></strong>
 
 - 📫 How to reach me: **gokhangemici93@gmail.com**
 
